@@ -1,0 +1,9 @@
+CREATE TABLE Suppliers (
+  SupplierID INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  SupplierName VARCHAR(30) NOT NULL,
+  ContactPerson VARCHAR(30) NOT NULL,
+  ContactEmail VARCHAR(30) NOT NULL,
+  ContactPhone VARCHAR(10) NOT NULL,
+  BusinessID INT,
+  FOREIGN KEY (BusinessID) REFERENCES Businesses(BusinessID) ON DELETE CASCADE
+);

@@ -1,0 +1,10 @@
+CREATE TABLE Invoices (
+    InvoiceID INT AUTO_INCREMENT PRIMARY KEY,
+    OrderID INT,
+    FOREIGN KEY (OrderID) REFERENCES Orders(OrderID) ON DELETE CASCADE,
+    InvoiceDate DATETIME NOT NULL,
+    Amount DECIMAL(10, 2) NOT NULL,
+    BillingAddress VARCHAR(255) NOT NULL,
+    StatusID INT,
+    FOREIGN KEY (StatusID) REFERENCES Status(StatusID) ON DELETE CASCADE
+);

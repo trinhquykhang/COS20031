@@ -1,0 +1,8 @@
+CREATE TABLE Payments (
+    PaymentID INT AUTO_INCREMENT PRIMARY KEY,
+    PaymentDate DATETIME NOT NULL,
+    Amount DECIMAL(10, 2),
+    PaymentMethod VARCHAR(255),
+    OrderID INT,
+    FOREIGN KEY (OrderID) REFERENCES Orders(OrderID) ON DELETE CASCADE
+);
