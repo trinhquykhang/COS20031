@@ -1,0 +1,31 @@
+StatusID,Description
+1,Expired
+2,Not Available
+3,Deliveried
+4,In Progress
+5,Returned
+6,Pending
+7,Cancelled
+8,Shipped
+9,Refuned
+10,Out of stock
+11,Available
+12,Completed
+13,On Hold
+14,Back Ordered
+15,Ready for Pickup
+16,Payment Pending
+17,Awaiting Confirmation
+18,Verified
+19,Approved
+20,Rejected
+21,Accepted
+22,Pending Review
+23,Processing Payment
+24,Partially Shipped
+25,Partially Delivered
+26,On Route
+27,On Time
+28,Delayed
+29,Pending Approval
+30,Ready for Dispatch
