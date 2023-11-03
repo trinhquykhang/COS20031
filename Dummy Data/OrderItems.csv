@@ -1,4 +1,4 @@
-git commitOrderItem ID,Order ID,Product ID,Quantity,Price,Subtotal
+OrderItem ID,Order ID,Product ID,Quantity,Price,Subtotal
 1,536,68,24.97,958.08,260
 2,57,729,41.28,264.22,281
 3,641,502,37.98,390.98,640
