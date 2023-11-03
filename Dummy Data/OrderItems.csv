@@ -1,4 +1,4 @@
-OrderItem ID,Order ID,Product ID,Quantity,Price,Subtotal
+OrderItemID,OrderID,ProductID,Quantity,Price,Subtotal
 1,7,68,19,,0
 2,50,729,3,,0
 3,2,502,17,,0
