@@ -1,31 +1,31 @@
 NotificationID,Title,Message,SendDate,UserID,StatusID,Type
-1,Sales Report,Thank you for your purchase! We hope you enjoy your new product.,15/01/2023,2438,,Email
-2,Quarterly Meeting,Reminder: Your quarterly meeting is scheduled for tomorrow at 10:00 AM.,20/02/2023,2794,,SMS
-3,Project Update,We've made great progress on the project. Check out the latest updates.,5/3/2023,2935,,Push Notification
-4,Team Workshop,Join us for a team workshop on improving collaboration and productivity.,10/4/2023,2696,,In-App Message
-5,Marketing Campaign,Our exciting new marketing campaign is launching next week. Stay tuned!,15/05/2023,931,,Phone Call
-6,Financial Review,Please review the financial report attached for our year-end review.,20/06/2023,1958,,Alert
-7,Product Launch,Get ready for the big product launch event happening this Friday!,25/07/2023,281,,Reminder
-8,Customer Survey,We'd love to hear your feedback. Take our customer survey today.,30/08/2023,2186,,Update
-9,Training Session,Don't miss the training session on new software tools this Thursday.,5/9/2023,2168,,Announcement
-10,Board Meeting,Our next board meeting is scheduled for Monday. Prepare your reports.,10/10/2023,1954,,Confirmation
-11,Product Roadmap,Check out the latest product roadmap to see what's coming up.,15/11/2023,1839,,Warning
-12,Employee Recognition,Employee recognition: Congrats to John for outstanding performance!,20/12/2023,151,,Information
-13,New Hire Orientation,Welcome to our new hires. Join the orientation session on Friday.,25/01/2024,253,,Error
-14,Product Demo,Get a sneak peek at our latest product with a live demo next week.,1/2/2024,2985,,Subscription Renewal
-15,Quality Assurance,Quality assurance is our top priority. Read our latest QA report.,15/03/2024,2812,,Event Invitation
-16,Company Picnic,"Save the date for our annual company picnic on Saturday, June 15th.",20/04/2024,43,,Payment Confirmation
-17,Annual Review,It's time for your annual performance review. Schedule a meeting.,25/05/2024,2948,,Password Reset
-18,Strategic Planning,Join us for strategic planning to shape our company's future.,30/06/2024,1132,,Account Activation
-19,Promotion Announcement,We're excited to announce new promotions in the team. Congrats!,5/7/2024,1978,,Account Deactivation
-20,Holiday Party,RSVP for our holiday party on December 20th. It's going to be a blast!,10/8/2024,2277,,Order Shipment
-21,Technical Support,Our technical support team is here to assist you 24/7. Contact us.,15/09/2024,1053,,Appointment Reminder
-22,Budget Proposal,We're seeking your input on our budget proposal. Share your thoughts.,20/10/2024,1892,,News Update
-23,Marketing Strategy,A new marketing strategy is in the works. Stay tuned for updates.,25/11/2024,2035,,Promotional Offer
-24,Customer Feedback,Your feedback matters! Please complete our customer survey.,1/12/2024,2325,,Feedback Request
-25,Employee Training,Employee training sessions are scheduled for next month. Sign up!,15/01/2025,586,,Product Review Request
-26,Sales Presentation,Our sales presentation will showcase our latest products. Don't miss it.,20/02/2025,1729,,Emergency Alert
-27,Team Building,Team building activities are planned for next Friday. Join us!,25/03/2025,2415,,System Maintenance
-28,Product Release,We're thrilled to announce the release of our new product version.,30/04/2025,955,,Account Login
-29,Performance Review,It's time for your annual performance review. Schedule a meeting.,5/5/2025,1613,,Account Logout
-30,Customer Service,Our customer service team is available to assist you. Contact us.,10/6/2025,1469,,Survey Request
+1,Sales Report,Thank you for your purchase! We hope you enjoy your new product.,15/01/2023,2438,17,Email
+2,Quarterly Meeting,Reminder: Your quarterly meeting is scheduled for tomorrow at 10:00 AM.,20/02/2023,2794,17,SMS
+3,Project Update,We've made great progress on the project. Check out the latest updates.,5/3/2023,2935,18,Push Notification
+4,Team Workshop,Join us for a team workshop on improving collaboration and productivity.,10/4/2023,2696,17,In-App Message
+5,Marketing Campaign,Our exciting new marketing campaign is launching next week. Stay tuned!,15/05/2023,931,24,Phone Call
+6,Financial Review,Please review the financial report attached for our year-end review.,20/06/2023,1958,18,Alert
+7,Product Launch,Get ready for the big product launch event happening this Friday!,25/07/2023,281,24,Reminder
+8,Customer Survey,We'd love to hear your feedback. Take our customer survey today.,30/08/2023,2186,26,Update
+9,Training Session,Don't miss the training session on new software tools this Thursday.,5/9/2023,2168,18,Announcement
+10,Board Meeting,Our next board meeting is scheduled for Monday. Prepare your reports.,10/10/2023,1954,18,Confirmation
+11,Product Roadmap,Check out the latest product roadmap to see what's coming up.,15/11/2023,1839,24,Warning
+12,Employee Recognition,Employee recognition: Congrats to John for outstanding performance!,20/12/2023,151,24,Information
+13,New Hire Orientation,Welcome to our new hires. Join the orientation session on Friday.,25/01/2024,253,24,Error
+14,Product Demo,Get a sneak peek at our latest product with a live demo next week.,1/2/2024,2985,26,Subscription Renewal
+15,Quality Assurance,Quality assurance is our top priority. Read our latest QA report.,15/03/2024,2812,17,Event Invitation
+16,Company Picnic,"Save the date for our annual company picnic on Saturday, June 15th.",20/04/2024,43,18,Payment Confirmation
+17,Annual Review,It's time for your annual performance review. Schedule a meeting.,25/05/2024,2948,17,Password Reset
+18,Strategic Planning,Join us for strategic planning to shape our company's future.,30/06/2024,1132,18,Account Activation
+19,Promotion Announcement,We're excited to announce new promotions in the team. Congrats!,5/7/2024,1978,24,Account Deactivation
+20,Holiday Party,RSVP for our holiday party on December 20th. It's going to be a blast!,10/8/2024,2277,26,Order Shipment
+21,Technical Support,Our technical support team is here to assist you 24/7. Contact us.,15/09/2024,1053,24,Appointment Reminder
+22,Budget Proposal,We're seeking your input on our budget proposal. Share your thoughts.,20/10/2024,1892,24,News Update
+23,Marketing Strategy,A new marketing strategy is in the works. Stay tuned for updates.,25/11/2024,2035,17,Promotional Offer
+24,Customer Feedback,Your feedback matters! Please complete our customer survey.,1/12/2024,2325,17,Feedback Request
+25,Employee Training,Employee training sessions are scheduled for next month. Sign up!,15/01/2025,586,17,Product Review Request
+26,Sales Presentation,Our sales presentation will showcase our latest products. Don't miss it.,20/02/2025,1729,17,Emergency Alert
+27,Team Building,Team building activities are planned for next Friday. Join us!,25/03/2025,2415,26,System Maintenance
+28,Product Release,We're thrilled to announce the release of our new product version.,30/04/2025,955,18,Account Login
+29,Performance Review,It's time for your annual performance review. Schedule a meeting.,5/5/2025,1613,26,Account Logout
+30,Customer Service,Our customer service team is available to assist you. Contact us.,10/6/2025,1469,18,Survey Request
