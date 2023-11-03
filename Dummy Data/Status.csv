@@ -1,31 +1,43 @@
 StatusID,Description
-1,Expired
-2,Not Available
-3,Deliveried
-4,In Progress
-5,Returned
-6,Pending
-7,Cancelled
+1,Payment Pending
+2,Cancelled
+3,Returned
+4,Refunded
+5,Partially Shipped
+6,Not Available
+7,Processing Payment
 8,Shipped
-9,Refuned
-10,Out of stock
-11,Available
-12,Completed
-13,On Hold
-14,Back Ordered
-15,Ready for Pickup
-16,Payment Pending
-17,Awaiting Confirmation
-18,Verified
-19,Approved
-20,Rejected
-21,Accepted
-22,Pending Review
-23,Processing Payment
-24,Partially Shipped
-25,Partially Delivered
-26,On Route
-27,On Time
-28,Delayed
-29,Pending Approval
-30,Ready for Dispatch
+9,Completed
+10,Approved
+11,Awaiting Confirmation
+12,Pending Review
+13,Available
+14,Delivered
+15,Out of stock
+16,On Time
+17,Expired
+18,Accepted
+19,Delivered
+20,Pending Approval
+21,Back Ordered
+22,Ready for Dispatch
+23,Partially Shipped
+24,Verified
+25,Accepted
+26,Pending Review
+27,Not Available
+28,Partially Delivered
+29,Data Loss
+30,Hardware Issue
+31,Technical Support
+32,Under Investigation
+33,Urgent Issue
+34,Paid in Full
+35,Overdue
+36,Invoice Adjusted
+37,Invoice Approved
+38,Invoice Rejected
+39,Pending Fulfillment
+40,Awaiting Shipment
+41,Order Revised
+
