@@ -1,101 +1,101 @@
 ReviewID,Rating,Comment,UserID,ProductID
-R-001,5,"Excellent product, highly recommended!",User001,P-001
-R-002,4.5,"I love it, great value for the price.",User002,P-002
-R-003,4.8,"It exceeded my expectations, fantastic.",User003,P-003
-R-004,4,Very satisfied with my purchase.,User004,P-004
-R-005,3.5,Good quality and fast shipping.,User005,P-005
-R-006,4.2,The best product I've ever bought.,User006,P-006
-R-007,3.8,A must-have for anyone.,User007,P-007
-R-008,4.7,I can't live without it.,User008,P-008
-R-009,4.1,Perfect for my needs.,User009,P-009
-R-010,4.9,Impressed by the performance.,User010,P-010
-R-011,4.3,This is a game-changer.,User011,P-011
-R-012,4.6,Exactly what I was looking for.,User012,P-012
-R-013,3.9,It's so versatile and user-friendly.,User013,P-013
-R-014,4.4,I'm thrilled with this purchase.,User014,P-014
-R-015,4.7,"Great product, well worth the money.",User015,P-015
-R-016,3.6,Highly reliable and efficient.,User016,P-016
-R-017,4.2,I'm a happy customer.,User017,P-017
-R-018,4.5,"No complaints, it's amazing.",User018,P-018
-R-019,4,So happy I bought this.,User019,P-019
-R-020,4.8,Top-notch quality and design.,User020,P-020
-R-021,4.3,"A+ product, will buy again.",User021,P-021
-R-022,4.1,My friends envy me for having this.,User022,P-022
-R-023,3.7,Life-changing product.,User023,P-023
-R-024,4.6,I'm in love with it.,User024,P-024
-R-025,3.9,Worth every penny.,User025,P-025
-R-026,4.4,Quality that stands out.,User026,P-026
-R-027,4.7,I use it every day.,User027,P-027
-R-028,4.2,It's a real gem.,User028,P-028
-R-029,4.5,So stylish and practical.,User029,P-029
-R-030,4.8,I recommend it to everyone.,User030,P-030
-R-031,4.1,Couldn't be happier with it.,User031,P-031
-R-032,4.6,It's a fantastic addition to my life.,User032,P-032
-R-033,3.8,Impressive features and performance.,User033,P-033
-R-034,4.3,Highly durable and dependable.,User034,P-034
-R-035,4.9,I don't know how I lived without it.,User035,P-035
-R-036,4,My family loves it too.,User036,P-036
-R-037,4.5,The best decision I've made.,User037,P-037
-R-038,4.2,So easy to use and efficient.,User038,P-038
-R-039,4.6,It's a top-tier product.,User039,P-039
-R-040,3.7,I can't stop raving about it.,User040,P-040
-R-041,4.1,It's the perfect fit for my needs.,User041,P-041
-R-042,4.4,A real game-changer.,User042,P-042
-R-043,4.8,It's like a dream come true.,User043,P-043
-R-044,4.3,My life is so much easier with this.,User044,P-044
-R-045,4.9,Very user-friendly and intuitive.,User045,P-045
-R-046,4.5,I've become more productive with it.,User046,P-046
-R-047,4.7,This product is a game-changer.,User047,P-047
-R-048,4.2,I'm impressed by its capabilities.,User048,P-048
-R-049,4.6,I can't get enough of it.,User049,P-049
-R-050,3.8,Such a valuable addition to my life.,User050,P-050
-R-051,4.4,My friends are jealous of it.,User051,P-051
-R-052,4,It's a real lifesaver.,User052,P-052
-R-053,4.6,Worth every dollar.,User053,P-053
-R-054,4.3,I'm a fan for life.,User054,P-054
-R-055,4.7,Top-notch quality and performance.,User055,P-055
-R-056,4.1,I'm blown away by it.,User056,P-056
-R-057,4.5,It's a must-have for everyone.,User057,P-057
-R-058,3.7,I'm more organized and efficient.,User058,P-058
-R-059,4.8,I can't imagine life without it.,User059,P-059
-R-060,4.2,So glad I found this product.,User060,P-060
-R-061,4.9,It makes my life so much better.,User061,P-061
-R-062,4.4,It's a winner in my book.,User062,P-062
-R-063,4.1,I'm a loyal customer.,User063,P-063
-R-064,4.6,My expectations were exceeded.,User064,P-064
-R-065,3.9,I'm a satisfied customer.,User065,P-065
-R-066,4.5,I use it every day without fail.,User066,P-066
-R-067,4,I can't find any flaws.,User067,P-067
-R-068,4.7,Highly recommended to all.,User068,P-068
-R-069,4.3,I'm in awe of this product.,User069,P-069
-R-070,4.8,It's the best investment I've made.,User070,P-070
-R-071,4.2,So reliable and consistent.,User071,P-071
-R-072,4.1,I'm a happy camper.,User072,P-072
-R-073,4.9,It's perfect for my needs.,User073,P-073
-R-074,4.5,I can't find anything wrong with it.,User074,P-074
-R-075,3.7,It's exceeded all my expectations.,User075,P-075
-R-076,4.4,I'm very impressed.,User076,P-076
-R-077,4,A great addition to my life.,User077,P-077
-R-078,4.6,I use it constantly.,User078,P-078
-R-079,4.3,The quality is top-notch.,User079,P-079
-R-080,4.7,I've recommended it to my friends.,User080,P-080
-R-081,3.8,It's made a significant difference.,User081,P-081
-R-082,4.2,I can't believe I didn't buy it sooner.,User082,P-082
-R-083,4.9,It's my go-to product.,User083,P-083
-R-084,4.5,I'm extremely happy with it.,User084,P-084
-R-085,4.1,It's an outstanding product.,User085,P-085
-R-086,4.8,I can't stop talking about it.,User086,P-086
-R-087,4.4,It's worth every cent.,User087,P-087
-R-088,3.9,I'm a devoted fan.,User088,P-088
-R-089,4.6,I've never been this satisfied.,User089,P-089
-R-090,4,I'm so glad I chose this.,User090,P-090
-R-091,4.5,It's irreplaceable in my life.,User091,P-091
-R-092,4.3,A true gem among products.,User092,P-092
-R-093,4.7,It's become an essential part of my life.,User093,P-093
-R-094,4.2,I can't imagine life without it.,User094,P-094
-R-095,4.1,My friends are impressed with it.,User095,P-095
-R-096,4.9,A solid investment.,User096,P-096
-R-097,4.4,I'm very pleased with it.,User097,P-097
-R-098,3.8,It's changed my life for the better.,User098,P-098
-R-099,4.6,I'm in love with this product.,User099,P-099
-R-100,4.2,I'm a devoted fan.,User100,P-100
+1,5,"Excellent product, highly recommended!",869,73
+2,4.5,"I love it, great value for the price.",68,36
+3,4.8,"It exceeded my expectations, fantastic.",604,53
+4,4,Very satisfied with my purchase.,2203,44
+5,3.5,Good quality and fast shipping.,314,30
+6,4.2,The best product I've ever bought.,82,86
+7,3.8,A must-have for anyone.,758,33
+8,4.7,I can't live without it.,510,44
+9,4.1,Perfect for my needs.,2566,63
+10,4.9,Impressed by the performance.,354,25
+11,4.3,This is a game-changer.,2768,48
+12,4.6,Exactly what I was looking for.,1726,65
+13,3.9,It's so versatile and user-friendly.,185,86
+14,4.4,I'm thrilled with this purchase.,89,56
+15,4.7,"Great product, well worth the money.",1195,12
+16,3.6,Highly reliable and efficient.,2266,36
+17,4.2,I'm a happy customer.,2762,56
+18,4.5,"No complaints, it's amazing.",1873,7
+19,4,So happy I bought this.,1262,51
+20,4.8,Top-notch quality and design.,1257,97
+21,4.3,"A+ product, will buy again.",1723,14
+22,4.1,My friends envy me for having this.,318,19
+23,3.7,Life-changing product.,1605,70
+24,4.6,I'm in love with it.,632,60
+25,3.9,Worth every penny.,198,75
+26,4.4,Quality that stands out.,116,11
+27,4.7,I use it every day.,1322,14
+28,4.2,It's a real gem.,2331,99
+29,4.5,So stylish and practical.,2065,46
+30,4.8,I recommend it to everyone.,1415,1
+31,4.1,Couldn't be happier with it.,1921,32
+32,4.6,It's a fantastic addition to my life.,2398,96
+33,3.8,Impressive features and performance.,1463,87
+34,4.3,Highly durable and dependable.,1064,77
+35,4.9,I don't know how I lived without it.,2537,99
+36,4,My family loves it too.,825,69
+37,4.5,The best decision I've made.,1076,21
+38,4.2,So easy to use and efficient.,1613,60
+39,4.6,It's a top-tier product.,1316,15
+40,3.7,I can't stop raving about it.,84,7
+41,4.1,It's the perfect fit for my needs.,856,14
+42,4.4,A real game-changer.,1936,45
+43,4.8,It's like a dream come true.,555,78
+44,4.3,My life is so much easier with this.,2584,48
+45,4.9,Very user-friendly and intuitive.,654,54
+46,4.5,I've become more productive with it.,10,1
+47,4.7,This product is a game-changer.,1084,73
+48,4.2,I'm impressed by its capabilities.,1060,54
+49,4.6,I can't get enough of it.,2871,6
+50,3.8,Such a valuable addition to my life.,2882,46
+51,4.4,My friends are jealous of it.,632,5
+52,4,It's a real lifesaver.,1772,25
+53,4.6,Worth every dollar.,2774,4
+54,4.3,I'm a fan for life.,2242,76
+55,4.7,Top-notch quality and performance.,1083,78
+56,4.1,I'm blown away by it.,1238,76
+57,4.5,It's a must-have for everyone.,16,97
+58,3.7,I'm more organized and efficient.,2821,96
+59,4.8,I can't imagine life without it.,1960,84
+60,4.2,So glad I found this product.,2885,61
+61,4.9,It makes my life so much better.,2480,45
+62,4.4,It's a winner in my book.,221,27
+63,4.1,I'm a loyal customer.,543,62
+64,4.6,My expectations were exceeded.,290,41
+65,3.9,I'm a satisfied customer.,1943,50
+66,4.5,I use it every day without fail.,333,9
+67,4,I can't find any flaws.,544,41
+68,4.7,Highly recommended to all.,1690,18
+69,4.3,I'm in awe of this product.,2713,36
+70,4.8,It's the best investment I've made.,296,65
+71,4.2,So reliable and consistent.,2951,75
+72,4.1,I'm a happy camper.,2334,7
+73,4.9,It's perfect for my needs.,1997,71
+74,4.5,I can't find anything wrong with it.,1467,40
+75,3.7,It's exceeded all my expectations.,2400,13
+76,4.4,I'm very impressed.,13,100
+77,4,A great addition to my life.,2008,89
+78,4.6,I use it constantly.,1251,4
+79,4.3,The quality is top-notch.,1310,23
+80,4.7,I've recommended it to my friends.,1371,91
+81,3.8,It's made a significant difference.,2821,45
+82,4.2,I can't believe I didn't buy it sooner.,1279,22
+83,4.9,It's my go-to product.,125,19
+84,4.5,I'm extremely happy with it.,854,57
+85,4.1,It's an outstanding product.,780,58
+86,4.8,I can't stop talking about it.,2444,77
+87,4.4,It's worth every cent.,2565,23
+88,3.9,I'm a devoted fan.,1345,9
+89,4.6,I've never been this satisfied.,2430,81
+90,4,I'm so glad I chose this.,1564,26
+91,4.5,It's irreplaceable in my life.,914,66
+92,4.3,A true gem among products.,1293,80
+93,4.7,It's become an essential part of my life.,2184,88
+94,4.2,I can't imagine life without it.,1663,46
+95,4.1,My friends are impressed with it.,2832,72
+96,4.9,A solid investment.,1405,90
+97,4.4,I'm very pleased with it.,1931,84
+98,3.8,It's changed my life for the better.,1961,5
+99,4.6,I'm in love with this product.,40,8
+100,4.2,I'm a devoted fan.,104,51
