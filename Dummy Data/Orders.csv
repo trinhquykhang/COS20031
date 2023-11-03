@@ -1,4 +1,4 @@
-Order ID,Order Date,Total Price,Status ID,Users ID
+OrderID,OrderDate,TotalPrice,StatusID,UsersID
 1,1/3/2023,276,,
 2,5/11/2023,721,,
 3,8/6/2023,453,,

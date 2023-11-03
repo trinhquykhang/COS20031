@@ -1,4 +1,4 @@
-Payment ID,Payment Date,Amount,Payment Method,Order ID
+PaymentID,PaymentDate,Amount,Payment Method,OrderID
 1,7/5/2023,30.2,E-Wallet,
 2,6/10/2023,91.5,Google Pay,
 3,9/2/2023,81.8,Apple Pay,
