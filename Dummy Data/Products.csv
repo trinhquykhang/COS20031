@@ -1,101 +1,101 @@
-ProductID,ProductName,Description,Price,Type,StockQuantity,BusinessID
-1,Widget AA,High-quality widget designed for various applications.,19.99,Widget,250,B-001
-2,Widget BB,Compact and efficient widget for everyday tasks.,14.99,Thingamajig,150,B-002
-3,Thingamajig XX,The latest model of our thingamajig series with advanced features.,29.99,Gizmo,300,B-003
-4,Thingamajig YY,Reliable and durable thingamajig for long-term use.,24.99,Doohickey,200,B-004
-5,Gizmo ZZ,Multi-purpose gizmo with cutting-edge technology.,39.99,Gadget,100,B-005
-6,Gizmo AA,Entry-level gizmo suitable for beginners.,9.99,Appliance,500,B-006
-7,Doohickey BB,Specialized doohickey for specific applications.,34.99,Tool,120,B-007
-8,Doohickey CC,Premium doohickey with advanced features and performance.,49.99,Machine,80,B-008
-9,Widget CC,Versatile widget designed for industrial use.,24.99,Device,180,B-009
-10,Widget DD,Compact widget ideal for home and office applications.,12.99,Equipment,300,B-010
-11,Thingamajig ZZ,Top-of-the-line thingamajig with exceptional performance.,59.99,Instrument,150,B-011
-12,Thingamajig AA,All-purpose thingamajig with a sleek design.,19.99,Accessory,250,B-012
-13,Gizmo BB,Advanced gizmo with superior features.,44.99,Component,90,B-013
-14,Gizmo CC,Sleek gizmo with a stylish design and user-friendly controls.,29.99,Hardware,120,B-014
-15,Doohickey AA,High-performance doohickey for professional use.,39.99,Software,70,B-015
-16,Doohickey DD,Durable doohickey built to last in demanding environments.,34.99,Apparel,110,B-016
-17,Widget EE,Economical widget for budget-conscious customers.,8.99,Footwear,400,B-017
-18,Widget FF,Industrial-grade widget for heavy-duty tasks.,29.99,Furniture,150,B-018
-19,Thingamajig DD,Compact thingamajig with exceptional portability.,16.99,Electronics,280,B-019
-20,Thingamajig EE,Efficient thingamajig for daily use.,14.99,Toys,320,B-020
-21,Gizmo DD,Premium gizmo with a touchscreen interface.,54.99,Jewelry,80,B-021
-22,Gizmo EE,Stylish gizmo with a variety of color options.,33.99,Cosmetics,120,B-022
-23,Doohickey EE,Heavy-duty doohickey for industrial applications.,42.99,Food,70,B-023
-24,Doohickey FF,Professional-grade doohickey with advanced features.,49.99,Beverages,110,B-024
-25,Widget GG,Energy-efficient widget with an eco-friendly design.,59.99,Books,300,B-025
-26,Widget HH,High-speed widget for time-sensitive tasks.,64.99,Music,150,B-026
-27,Thingamajig FF,User-friendly thingamajig with intuitive controls.,38.99,Movies,180,B-027
-28,Thingamajig GG,Compact and lightweight thingamajig for easy handling.,9.99,Home Decor,300,B-028
-29,Gizmo FF,Compact gizmo with a powerful processor.,18.99,Sports Equipment,150,B-029
-30,Gizmo GG,All-in-one gizmo with multiple functions.,54.99,Pet Supplies,250,B-030
-31,Doohickey GG,Robust doohickey for rugged environments.,47.99,Office Supplies,90,B-031
-32,Doohickey HH,Professional-grade doohickey for experts.,28.99,Stationery,120,B-032
-33,Widget II,High-capacity widget for data storage.,49.99,Art Supplies,70,B-033
-34,Widget JJ,Entry-level widget for beginners.,62.99,Crafts,400,B-034
-35,Thingamajig HH,Compact thingamajig with a sleek design.,24.99,Automotive,250,B-035
-36,Thingamajig II,Advanced thingamajig with cutting-edge features.,14.99,Outdoor Gear,150,B-036
-37,Gizmo HH,Premium gizmo with a large display.,22.99,Healthcare,300,B-037
-38,Gizmo II,Compact gizmo with extended battery life.,12.99,Beauty,200,B-038
-39,Doohickey II,Professional doohickey with advanced connectivity.,36.99,Fitness,100,B-039
-40,Doohickey JJ,Heavy-duty doohickey designed for industrial use.,49.99,Home Improvement,500,B-040
-41,Widget KK,High-performance widget for demanding tasks.,57.99,Kitchenware,120,B-041
-42,Widget LL,Versatile widget for various applications.,69.99,Cookware,80,B-042
-43,Thingamajig JJ,Premium thingamajig with exceptional performance.,17.99,Home Appliances,180,B-043
-44,Thingamajig KK,Entry-level thingamajig for basic tasks.,27.99,Gardening,300,B-044
-45,Gizmo JJ,Sleek gizmo with a modern design.,22.99,Toiletries,150,B-045
-46,Gizmo KK,Compact gizmo with a lightweight build.,12.99,Cleaning Supplies,250,B-046
-47,Doohickey KK,Multi-function doohickey with user-friendly controls.,44.99,Electricals,90,B-047
-48,Doohickey LL,Professional doohickey with robust construction.,18.99,Luggage,120,B-048
-49,Widget MM,All-in-one widget with a variety of features.,14.99,Bags,70,B-049
-50,Widget NN,Compact widget with a durable build.,24.99,Backpacks,110,B-050
-51,Thingamajig LL,Advanced thingamajig designed for professionals.,9.99,Shoes,400,B-051
-52,Thingamajig MM,Compact and efficient gizmo for everyday use.,39.99,Handbags,150,B-052
-53,Gizmo LL,High-quality widget for multiple applications.,49.99,Watches,280,B-053
-54,Gizmo MM,Entry-level doohickey for novice users.,59.99,Sunglasses,320,B-054
-55,Doohickey MM,Premium gizmo with advanced technology.,19.99,Wristbands,80,B-055
-56,Doohickey NN,Durable gizmo built to withstand tough conditions.,16.99,Necklaces,120,B-056
-57,Widget OO,Industrial-grade widget for heavy-duty work.,54.99,Earrings,70,B-057
-58,Widget PP,Compact thingamajig with sleek aesthetics.,29.99,Bracelets,110,B-058
-59,Thingamajig NN,Advanced doohickey with cutting-edge features.,49.99,Rings,300,B-059
-60,Thingamajig OO,Efficient widget for various tasks.,62.99,Makeup,150,B-060
-61,Gizmo NN,Robust thingamajig with exceptional performance.,59.99,Skincare,180,B-061
-62,Gizmo OO,Compact and lightweight gizmo for easy handling.,69.99,Haircare,300,B-062
-63,Doohickey OO,Premium doohickey with a touchscreen interface.,24.99,Perfume,150,B-063
-64,Doohickey PP,Stylish gizmo with a sleek and modern design.,14.99,Cologne,250,B-064
-65,Widget QQ,Heavy-duty widget for industrial applications.,64.99,Snacks,90,B-065
-66,Widget RR,Professional-grade widget with advanced capabilities.,21.99,Bakery,120,B-066
-67,Thingamajig PP,Energy-efficient gizmo with a small ecological footprint.,36.99,Fruits,70,B-067
-68,Thingamajig QQ,High-speed gizmo for time-critical applications.,49.99,Vegetables,400,B-068
-69,Gizmo PP,User-friendly doohickey with intuitive controls.,57.99,Meat,250,B-069
-70,Gizmo QQ,Compact and versatile thingamajig for daily use.,69.99,Seafood,150,B-070
-71,Doohickey QQ,Compact widget with exceptional portability.,19.99,Dairy,300,B-071
-72,Doohickey RR,All-purpose widget for various tasks.,29.99,Beverages,200,B-072
-73,Widget SS,Advanced gizmo with superior performance.,49.99,Cereals,100,B-073
-74,Widget TT,Sleek gizmo with a stylish design and user-friendly features.,18.99,Cookbooks,500,B-074
-75,Thingamajig RR,High-performance widget for professional users.,28.99,Fiction,120,B-075
-76,Thingamajig SS,Durable widget built to last in demanding environments.,49.99,Non-Fiction,80,B-076
-77,Gizmo RR,Economical gizmo for budget-conscious consumers.,54.99,Mystery,180,B-077
-78,Gizmo SS,Industrial-grade gizmo for demanding workloads.,49.99,Science Fiction,300,B-078
-79,Doohickey SS,Compact and efficient thingamajig for various applications.,62.99,Romance,150,B-079
-80,Doohickey TT,Advanced thingamajig with cutting-edge technology.,19.99,Fantasy,250,B-080
-81,Widget UU,Premium doohickey with advanced capabilities.,54.99,Biography,90,B-081
-82,Widget VV,Versatile widget suitable for industrial applications.,49.99,History,120,B-082
-83,Thingamajig TT,Compact widget designed for home and office use.,59.99,Science,70,B-083
-84,Thingamajig UU,Top-of-the-line thingamajig with exceptional features.,17.99,Children's Books,110,B-084
-85,Gizmo TT,All-purpose thingamajig with a sleek design and user-friendly features.,27.99,Comics,400,B-085
-86,Gizmo UU,Advanced gizmo with superior performance and capabilities.,22.99,Classical,150,B-086
-87,Doohickey UU,Sleek gizmo with a stylish design and user-friendly controls.,64.99,Rock,280,B-087
-88,Doohickey VV,High-performance doohickey for professional applications.,33.99,Pop,320,B-088
-89,Widget WW,Durable doohickey built to withstand challenging conditions.,42.99,Hip-Hop,80,B-089
-90,Widget XX,Economical widget for cost-conscious consumers.,69.99,Jazz,120,B-090
-91,Thingamajig VV,Industrial-grade widget for demanding tasks.,24.99,Country,70,B-091
-92,Thingamajig WW,Compact and portable thingamajig for easy handling.,12.99,Blues,110,B-092
-93,Gizmo VV,Efficient thingamajig for everyday use.,38.99,Electronic,300,B-093
-94,Gizmo WW,Premium gizmo with a touchscreen interface and advanced technology.,33.99,Action,150,B-094
-95,Doohickey WW,Stylish gizmo with a variety of color options to choose from.,42.99,Comedy,180,B-095
-96,Doohickey XX,Heavy-duty doohickey for industrial applications.,69.99,Drama,300,B-096
-97,Widget YY,Professional-grade doohickey with advanced features and capabilities.,24.99,Horror,150,B-097
-98,Widget ZZ,High-capacity widget for data storage needs.,12.99,Science Fiction,250,B-098
-99,Thingamajig YY,Entry-level widget for beginners and basic tasks.,24.99,Romantic,90,B-099
-100,Thingamajig ZZ,Compact thingamajig with a modern and sleek design.,12.99,Adventure,120,B-100
+ProductID,ProductName,Price,Type,StockQuantity,BusinessID,Description
+1,iPhone 12 Pro,4.23,Mobile Phones,15,744, Flagship smartphone with A14 Bionic chip.
+2, Samsung Galaxy S21,2.36,Mobile Phones,6,948,High-end Android smartphone with Exynos 2100 processor.
+3,Google Pixel 5,6.71,Mobile Phones,27,36,Google's latest Pixel phone with excellent camera capabilities.
+4, OnePlus 9,3.98,Mobile Phones,78,716,Premium Android phone with Snapdragon 888.
+5, Sony Xperia 1 III,6.26,Mobile Phones,20,749,A top-tier Sony smartphone with 4K display.
+6, Apple iPhone SE,7.79,Mobile Phones,86,831, Compact and affordable iOS device with the A13 Bionic chip.
+7,Google Pixel 4a,4.83,Mobile Phones,79,863, Budget-friendly Android phone with a great camera.
+8, Samsung Galaxy Note 20,9.85,Mobile Phones,2,509,Note series phone with S Pen support.
+9, OnePlus Nord,7.13,Mobile Phones,23,687,Mid-range 5G phone from OnePlus.
+10, Sony Xperia 5 II,8.07,Mobile Phones,31,107,Compact and powerful Sony smartphone with 120Hz display.
+11,MacBook Air,3.69,Laptops,90,455,Ultra-thin laptop with M1 chip for Mac users.
+12,MSI GS66 Stealth,5.77,Laptops,65,420, Thin and light laptop with a dedicated GPU.
+13,12. Microsoft Surface Laptop,3.1,Laptops,48,630, Sleek Windows laptop with a touchscreen.
+14,13. Dell XPS 13,8.59,Laptops,3,924, Premium laptop with a high-resolution InfinityEdge display.
+15,14. Lenovo ThinkPad X1 Carbon,5.58,Laptops,76,48, Business-oriented laptop with a durable design.
+16,15. HP Spectre x360,9.87,Laptops,75,808, 2-in-1 laptop with a flexible hinge and powerful specs.
+17,16. Google Pixelbook,8.34,Laptops,19,249, High-end Chromebook with a convertible design.
+18,17. Microsoft Surface Book 3,5.1,Laptops,80,819, Detachable laptop with a powerful performance.
+19,18. Acer Predator Helios 300,6.16,Laptops,3,667, Gaming laptop with high-refresh-rate display.
+20,19. ASUS ZenBook 14,9.13,Laptops,72,135, Thin and light laptop with a dedicated GPU.
+21,Black Leather Jacket,7.25,Fashion,67,961, A beautiful black leather jacket that complements any outfit.
+22,Mechanical Wristwatch,2.86,Fashion,92,189,A high-end mechanical wristwatch with stainless steel casing and sapphire glass.
+23,Genuine Leather Handbag,1.65,Fashion,91,542,A genuine leather handbag with a luxurious design and convenient compartments.
+24, Striped Knit Sweater,3.51,Fashion,70,521,A lovely and warm striped knit sweater for the winter.
+25,Evening Clutch Bag,3.9,Fashion,24,936,A compact and glamorous evening clutch bag.
+26, Men's Snapback Cap,6.43,Fashion,28,857,Men's snapback cap with a variety of color options.
+27,Women's Wristwatch,3.08,Jewelry,82,332, An elegant women's wristwatch.
+28,Natural Pearl Jewelry,2.61,Jewelry,88,205, Jewelry made from natural pearls
+29,Smooth Writing Fountain Pen,2.75,Office Supplies,68,901,A fountain pen for smooth and quick writing
+30,Sony PlayStation 5 ,7.98,Home appliancs ,72,756,An automatic coffee maker with various settings for personalized coffee brewing.
+31,Philips Hue Lights ,9.29,Consumer Electronics,65,202,Next-gen gaming console with a fast SSD for quick loading times.
+32,Bose Noise Cancelling Headphones ,1.01,Consumer Electronics,32,834,Video doorbell with motion detection and two-way communication.
+33,Amazon Echo Show ,1.09,Consumer Electronics,32,818,Premium over-ear headphones with active noise cancellation for immersive audio.
+34,Sonos One Speaker ,1.66,Consumer Electronics,20,438,Smart display with Alexa voice assistant for controlling your smart home.
+35,GoPro Hero 9 ,5.78,Consumer Electronics,9,984,Smart speaker with excellent sound quality and multi-room audio.
+36,Amazon Echo Dot,3.38,Consumer Electronics,25,749,Action camera with 5K video recording for capturing adventures.
+37,JBL Flip 5 Speaker ,8.92,Consumer Electronics,79,204,Compact smart speaker with Alexa for voice control and smart home integration.
+38,Nest Learning Thermostat,6.06,Consumer Electronics,71,386,"Portable Bluetooth speaker with a waterproof design, ideal for outdoor use."
+39,Ring Video Doorbell ,2.94,Consumer Electronics,18,28,Smart thermostat that learns your preferences to optimize energy usage.
+40,Philips Hue Lights,1.17,Consumer Electronics,78,536,Video doorbell with motion detection and two-way communication.
+41,Google Nest Mini ,2.3,Smart Home Devices,90,885,. Compact smart speaker with Google Assistant for voice control.
+42,Ecobee SmartThermostat ,5.99,Smart Home Devices,69,149,Wi-Fi thermostat with remote sensors for efficient heating and cooling.
+43,Ecobee SmartThermostat,5.15,Smart Home Devices,36,496,Wi-Fi thermostat with remote sensors for precise temperature control.
+44,Amazon Echo Dot (4th Gen),8.61,Smart Home Devices,89,736,Spherical smart speaker with Alexa voice assistant and smart home control.
+45,Philips Hue Play ,2.34,Smart Home Devices,32,875,Smart LED light bars for creating dynamic lighting experiences.
+46,August Wi-Fi Smart Lock ,1.71,Smart Home Devices,17,218,Smart lock for keyless entry and remote control through a smartphone app.
+47,Nest Learning Thermostat,5.38,Smart Home Devices,98,551,Smart thermostat that learns your preferences and helps you save on energy costs.
+48,Ring Video Doorbell ,8.65,Smart Home Devices,86,630,Video doorbell with motion detection and two-way communication.
+49,Philips Hue Lights,2.3,Smart Home Devices,35,303,Smart LED bulbs that change colors to set the mood in your home.
+50,Ecobee SmartThermostat ,4.02,Smart Home Devices,49,234,Wi-Fi thermostat with remote sensors for efficient heating and cooling.
+51,Hiking Boots,2.89,Footwear,14,473,Durable and waterproof hiking boots designed for outdoor adventures.
+52,Leather Sandals ,9.4,Footwear,8,18,"Supportive trainers for jogging, running, and various fitness activities."
+53,Ballet Flats ,4.39,Footwear,22,498,Comfortable and elegant ballet flats suitable for daily wear.
+54,Canvas Sneakers ,1.25,Footwear,22,423,Casual canvas sneakers for a relaxed and effortless look.
+55,Leather Sandals ,4.95,Footwear,13,663,Stylish leather sandals perfect for summer outings and beach days.
+56,Stainless Steel Cookware Set ,3.78,Household Items,69,454,High-quality stainless steel cookware set for your kitchen needs.
+57,Vacuum Cleaner,5.55,Household Items,8,375,Powerful vacuum cleaner to efficiently clean your home.
+58,Memory Foam Pillow,9.85,Household Items,72,736,Comfortable memory foam pillow for a restful night's sleep.
+59,Soft Blanket ,7.42,Household Items,80,936,"Cozy and warm blanket, perfect for snuggling on the couch."
+60,Ceramic Dinnerware,6.49,Household Items,60,790,Elegant and durable ceramic dinnerware for special meals.
+61,Moisturizing Face Cream,1.59,Beauty Products,48,814,Hydrating face cream for soft and radiant skin.
+62,Makeup Brushes,6.54,Beauty Products,53,439,High-quality makeup brushes for precise makeup application.
+63,Lipstick Set,5.42,Beauty Products,53,641,A set of vibrant lipstick shades for various occasions.
+64,Anti-Aging Serum,2.88,Beauty Products,61,499,Skin-rejuvenating serum for a youthful and glowing look.
+65,Fragrance Sampler ,1.14,Beauty Products,35,682,A collection of exquisite fragrances for your choice.
+66,Fresh Apples,2.29,Food,58,37,Crisp and delicious apples harvested from the orchard.
+67,Grass-fed Beef ,4.65,Food,6,212,"High-quality, grass-fed beef for all your grilling and cooking needs."
+68,Chocolate Chip Cookies ,7.84,Food,61,877,Homemade cookies with generous chunks of rich chocolate.
+69,Wild-caught Salmon ,8.38,Food,89,94,"Premium salmon fillets, sustainably wild-caught, and rich in omega-3."
+70,Organic Avocado ,2.24,Food,59,991,"Ripe and creamy organic avocados, perfect for your salads."
+71,Leather Jacket ,3.11,Clothing,56,407,A fashionable black leather jacket suitable for all seasons.
+72,Denim Jeans ,1.38,Clothing,70,134,Classic blue jeans made for everyday wear and comfort.
+73,Red Dress,7.27,Clothing,63,452,An elegant red dress designed for special occasions and events.
+74,Running Shoes ,6.36,Clothing,36,596,Lightweight running shoes ideal for an active lifestyle.
+75,Wool Sweater ,2.67,Clothing,52,928,A warm and cozy wool sweater to keep you comfortable on chilly days.
+76,Cast Iron Skillet ,4.92,Household Items,96,805,Durable cast iron skillet for versatile and long-lasting cooking.
+77,Table Lamp,9.51,Household Items,65,553,Modern table lamp for ambient lighting and home decor.
+78,Soft Bedsheets ,8.21,Household Items,65,419,Soft and luxurious bedsheets for a comfortable night's sleep.
+79,Glass Tumbler Set ,2.17,Household Items,37,327,Stylish glass tumbler set for enjoying various beverages.
+80,Pressure Cooker ,5.51,Household Items,38,308,Efficient pressure cooker for fast and convenient cooking.
+81,Hyaluronic Acid Serum ,7.93,Beauty Products,63,989,Hydrating hyaluronic acid serum for plump and radiant skin.
+82,Makeup Remover Wipes,8.54,Beauty Products,76,41,Convenient makeup remover wipes for easy and effective makeup removal.
+83,Eyeshadow Palette ,3.21,Beauty Products,16,291,Versatile eyeshadow palette with a variety of shades for creative makeup.
+84,Rose Water Toner ,7.85,Beauty Products,86,93,Refreshing rose water toner for skincare and a pleasant fragrance.
+85,Mascara Set,1.08,Beauty Products,35,640,Mascara set for achieving voluminous and long lashes.
+86,Vitamin C Serum ,6.75,Beauty Products,40,190,Brightening vitamin C serum for radiant and glowing skin.
+87,Rosehip Oil ,3.13,Beauty Products,81,700,Nourishing rosehip oil for skincare and deep hydration.
+88,Neutral Eyeshadow Palette,7.74,Beauty Products,17,603,Neutral eyeshadow palette perfect for everyday and versatile makeup.
+89,Lavender Bath Bombs,2.55,Beauty Products,26,296,Relaxing lavender-scented bath bombs for a soothing bath experience.
+90,Liquid Eyeliner ,1.49,Beauty Products,66,459,Precise liquid eyeliner for achieving sharp and dramatic winged looks.
+91,French Press Coffee Maker ,5.07,Household Items,13,467,Classic French press coffee maker for brewing rich and aromatic coffee.
+92,Ceramic Plant Pots ,1.62,Household Items,6,545,Stylish ceramic plant pots for indoor plants and greenery.
+93,Velvet Throw Pillow ,6.43,Household Items,55,509,Luxurious velvet throw pillow to enhance your home decor.
+94,Non-Stick Cookware Set,9.93,Household Items,11,709,Easy-to-clean non-stick cookware set for hassle-free cooking.
+95,Wireless Earbuds ,2.89,Household Items,2,471,"True wireless earbuds for music on the go, free from tangled wires."
+96,Ripe Mangoes ,4.49,Food,83,299,"Juicy and ripe mangoes, perfect for a tropical and refreshing treat."
+97,Organic Quinoa,1.27,Food,72,676,Versatile and nutritious organic quinoa for various dishes.
+98,Organic Chia Seeds ,3.29,Food,52,503,Nutrient-rich organic chia seeds for adding nutrition to your recipes.
+99,Artisanal Chocolate,9.02,Food,12,817,Handcrafted chocolates with unique and delicious flavors.
+100,Fresh Avocados ,4.2,Food,26,541,"Ripe and creamy avocados, ideal for salads and guacamole."
