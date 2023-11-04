@@ -5,6 +5,6 @@ CREATE TABLE OrderItems (
    ProductID INT,
    FOREIGN KEY (ProductID) REFERENCES Products(ProductID) ON DELETE CASCADE,
    Quantity INT(255) NOT NULL,
-   Price INT(255) NOT NULL, 
-   Subtotal INT(255) NOT NULL
+   Price DECIMAL(10,2) NOT NULL,
+   Subtotal DECIMAL(10,2) NOT NULL
 );
