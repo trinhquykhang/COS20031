@@ -34,6 +34,8 @@ CREATE TABLE `Businesses` (
   UNIQUE KEY `OwnerName` (`OwnerName`),
   UNIQUE KEY `ContactNumber` (`ContactNumber`),
   KEY `UserID` (`UserID`),
+  KEY `idx_businessName` (`BusinessName`),
+  KEY `idx_ownerName` (`OwnerName`),
   CONSTRAINT `Businesses_ibfk_1` FOREIGN KEY (`UserID`) REFERENCES `Users` (`UserID`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -88,6 +90,8 @@ CREATE TABLE `Customers` (
   `BusinessID` int(11) DEFAULT NULL,
   PRIMARY KEY (`CustomerID`),
   KEY `BusinessID` (`BusinessID`),
+  KEY `idx_customerName` (`CustomerName`),
+  KEY `idx_customerEmail` (`CustomerEmail`),
   CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`BusinessID`) REFERENCES `Businesses` (`BusinessID`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -114,8 +118,8 @@ CREATE TABLE `Invoices` (
   `BillingAddress` varchar(255) NOT NULL,
   `StatusID` int(11) DEFAULT NULL,
   PRIMARY KEY (`InvoiceID`),
-  KEY `OrderID` (`OrderID`),
-  KEY `StatusID` (`StatusID`),
+  KEY `idx_orderID` (`OrderID`),
+  KEY `idx_statusID` (`StatusID`),
   CONSTRAINT `Invoices_ibfk_1` FOREIGN KEY (`OrderID`) REFERENCES `Orders` (`OrderID`) ON DELETE CASCADE,
   CONSTRAINT `Invoices_ibfk_2` FOREIGN KEY (`StatusID`) REFERENCES `Status` (`StatusID`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
@@ -144,8 +148,8 @@ CREATE TABLE `Notifications` (
   `StatusID` int(11) DEFAULT NULL,
   `Type` varchar(55) NOT NULL,
   PRIMARY KEY (`NotificationID`),
-  KEY `UserID` (`UserID`),
-  KEY `StatusID` (`StatusID`),
+  KEY `idx_userID` (`UserID`),
+  KEY `idx_statusID` (`StatusID`),
   CONSTRAINT `Notifications_ibfk_1` FOREIGN KEY (`UserID`) REFERENCES `Users` (`UserID`) ON DELETE CASCADE,
   CONSTRAINT `Notifications_ibfk_2` FOREIGN KEY (`StatusID`) REFERENCES `Status` (`StatusID`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
@@ -173,8 +177,8 @@ CREATE TABLE `OrderItems` (
   `Price` decimal(10,2) NOT NULL,
   `Subtotal` decimal(10,2) NOT NULL,
   PRIMARY KEY (`OrderItemID`),
-  KEY `OrderID` (`OrderID`),
-  KEY `ProductID` (`ProductID`),
+  KEY `idx_orderID` (`OrderID`),
+  KEY `idx_productID` (`ProductID`),
   CONSTRAINT `OrderItems_ibfk_1` FOREIGN KEY (`OrderID`) REFERENCES `Orders` (`OrderID`) ON DELETE CASCADE,
   CONSTRAINT `OrderItems_ibfk_2` FOREIGN KEY (`ProductID`) REFERENCES `Products` (`ProductID`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
@@ -201,8 +205,8 @@ CREATE TABLE `Orders` (
   `StatusID` int(11) DEFAULT NULL,
   `UserID` int(11) DEFAULT NULL,
   PRIMARY KEY (`OrderID`),
-  KEY `StatusID` (`StatusID`),
-  KEY `UserID` (`UserID`),
+  KEY `idx_statusID` (`StatusID`),
+  KEY `idx_userID` (`UserID`),
   CONSTRAINT `Orders_ibfk_1` FOREIGN KEY (`StatusID`) REFERENCES `Status` (`StatusID`) ON DELETE CASCADE,
   CONSTRAINT `Orders_ibfk_2` FOREIGN KEY (`UserID`) REFERENCES `Users` (`UserID`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
@@ -229,7 +233,7 @@ CREATE TABLE `Payments` (
   `PaymentMethod` varchar(255) DEFAULT NULL,
   `OrderID` int(11) DEFAULT NULL,
   PRIMARY KEY (`PaymentID`),
-  KEY `OrderID` (`OrderID`),
+  KEY `idx_orderID` (`OrderID`),
   CONSTRAINT `Payments_ibfk_1` FOREIGN KEY (`OrderID`) REFERENCES `Orders` (`OrderID`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -258,6 +262,8 @@ CREATE TABLE `Products` (
   `BusinessID` int(11) DEFAULT NULL,
   PRIMARY KEY (`ProductID`),
   KEY `BusinessID` (`BusinessID`),
+  KEY `idx_productName` (`ProductName`),
+  KEY `idx_productType` (`Type`),
   CONSTRAINT `Products_ibfk_1` FOREIGN KEY (`BusinessID`) REFERENCES `Businesses` (`BusinessID`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -283,8 +289,8 @@ CREATE TABLE `PromotedProducts` (
   `StartDate` datetime NOT NULL,
   `EndDate` datetime NOT NULL,
   PRIMARY KEY (`PromotedProductID`),
-  KEY `ProductID` (`ProductID`),
-  KEY `PromotionID` (`PromotionID`),
+  KEY `idx_productID` (`ProductID`),
+  KEY `idx_promotionID` (`PromotionID`),
   CONSTRAINT `PromotedProducts_ibfk_1` FOREIGN KEY (`ProductID`) REFERENCES `Products` (`ProductID`) ON DELETE CASCADE,
   CONSTRAINT `PromotedProducts_ibfk_2` FOREIGN KEY (`PromotionID`) REFERENCES `Promotions` (`PromotionID`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
@@ -337,6 +343,7 @@ CREATE TABLE `Reviews` (
   PRIMARY KEY (`ReviewID`),
   KEY `UserID` (`UserID`),
   KEY `ProductID` (`ProductID`),
+  KEY `idx_rating` (`Rating`),
   CONSTRAINT `Reviews_ibfk_1` FOREIGN KEY (`UserID`) REFERENCES `Users` (`UserID`) ON DELETE CASCADE,
   CONSTRAINT `Reviews_ibfk_2` FOREIGN KEY (`ProductID`) REFERENCES `Products` (`ProductID`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
@@ -360,7 +367,8 @@ CREATE TABLE `Status` (
   `StatusID` int(11) NOT NULL AUTO_INCREMENT,
   `Description` char(1) NOT NULL,
   PRIMARY KEY (`StatusID`),
-  UNIQUE KEY `Description` (`Description`)
+  UNIQUE KEY `Description` (`Description`),
+  KEY `idx_description` (`Description`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -387,6 +395,7 @@ CREATE TABLE `Suppliers` (
   `BusinessID` int(11) DEFAULT NULL,
   PRIMARY KEY (`SupplierID`),
   KEY `BusinessID` (`BusinessID`),
+  KEY `idx_supplierName` (`SupplierName`),
   CONSTRAINT `Suppliers_ibfk_1` FOREIGN KEY (`BusinessID`) REFERENCES `Businesses` (`BusinessID`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -441,7 +450,8 @@ CREATE TABLE `Users` (
   `UserType` varchar(20) NOT NULL,
   PRIMARY KEY (`UserID`),
   UNIQUE KEY `Username` (`Username`),
-  UNIQUE KEY `Email` (`Email`)
+  UNIQUE KEY `Email` (`Email`),
+  KEY `idx_username` (`Username`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -461,4 +471,4 @@ CREATE TABLE `Users` (
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-11-05  3:04:01
+-- Dump completed on 2023-11-05  3:29:44
