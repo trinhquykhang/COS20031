@@ -1,101 +1,101 @@
 TicketID,Description,Subject,StatusID,UserID
-1,Can't access email,Can't access email,Open,1
-2,Printer not working,Printer not working,Open,2
-3,Forgotten password,Forgotten password,In Progress,3
-4,Software installation issue,Software installation issue,Closed,4
-5,Network connectivity problem,Network connectivity problem,Open,5
-6,Application crashes frequently,Application crashes frequently,In Progress,6
-7,Account locked out,Account locked out,Closed,7
-8,Slow computer performance,Slow computer performance,Open,8
-9,Data loss after system update,Data loss after system update,In Progress,9
-10,Cannot send/receive emails,Cannot send/receive emails,Open,10
-11,Blue screen error on startup,Blue screen error on startup,Closed,11
-12,Virus detected,Virus detected,Open,12
-13,Printer paper jam,Printer paper jam,In Progress,13
-14,Email attachments won't open,Email attachments won't open,Closed,14
-15,Cannot connect to Wi-Fi,Cannot connect to Wi-Fi,Open,15
-16,Software not responding,Software not responding,In Progress,16
-17,Forgotten email password,Forgotten email password,Closed,17
-18,Slow internet connection,Slow internet connection,Open,18
-19,Cannot open Excel files,Cannot open Excel files,In Progress,19
-20,Email not syncing with phone,Email not syncing with phone,Open,20
-21,Computer freezes randomly,Computer freezes randomly,Closed,21
-22,Malware detected,Malware detected,Open,22
-23,Printer not responding,Printer not responding,In Progress,23
-24,Cannot print PDF documents,Cannot print PDF documents,Closed,24
-25,Wi-Fi signal weak,Wi-Fi signal weak,Open,25
-26,System crashes on startup,System crashes on startup,In Progress,26
-27,Locked out of the company software,Locked out of the company software,Closed,27
-28,High CPU usage,High CPU usage,Open,28
-29,Missing files after update,Missing files after update,In Progress,29
-30,Email attachments missing,Email attachments missing,Open,30
-31,No internet connection,No internet connection,Closed,31
-32,Software crashes on launch,Software crashes on launch,Open,32
-33,Forgotten Wi-Fi password,Forgotten Wi-Fi password,In Progress,33
-34,Printer not printing properly,Printer not printing properly,Closed,34
-35,Email not receiving messages,Email not receiving messages,Open,35
-36,Application not responding,Application not responding,In Progress,36
-37,Account password reset,Account password reset,Open,37
-38,Slow computer startup,Slow computer startup,Closed,38
-39,Data recovery needed,Data recovery needed,Open,39
-40,Email login issue,Email login issue,In Progress,40
-41,Blue screen error,Blue screen error,Closed,41
-42,Ransomware infection,Ransomware infection,Open,42
-43,Printer error code,Printer error code,In Progress,43
-44,Cannot scan documents,Cannot scan documents,Closed,44
-45,Network connection lost,Network connection lost,Open,45
-46,Application crashes,Application crashes,In Progress,46
-47,Password recovery,Password recovery,Open,47
-48,System performance issues,System performance issues,Closed,48
-49,Excel file corruption,Excel file corruption,Open,49
-50,Email not sending,Email not sending,In Progress,50
-51,Computer overheating,Computer overheating,Closed,51
-52,Spyware detected,Spyware detected,Open,52
-53,Printer paper feed problem,Printer paper feed problem,In Progress,53
-54,Email attachment issues,Email attachment issues,Closed,54
-55,Internet connection lost,Internet connection lost,Open,55
-56,Network speed issues,Network speed issues,In Progress,56
-57,Cannot open Word documents,Cannot open Word documents,Open,57
-58,Email sync with phone problems,Email sync with phone problems,Closed,58
-59,Frequent software crashes,Frequent software crashes,Open,59
-60,Virus removal needed,Virus removal needed,In Progress,60
-61,Printer not recognizing paper,Printer not recognizing paper,Closed,61
-62,Cannot print PDF files,Cannot print PDF files,Open,62
-63,Slow Wi-Fi connection,Slow Wi-Fi connection,In Progress,63
-64,Software update issues,Software update issues,Closed,64
-65,Forgotten login details,Forgotten login details,Open,65
-66,Printer not connecting to computer,Printer not connecting to computer,In Progress,66
-67,Email attachments won't open,Email attachments won't open,Open,67
-68,System performance problems,System performance problems,Closed,68
-69,Data loss after software update,Data loss after software update,Open,69
-70,Email not syncing with phone,Email not syncing with phone,In Progress,70
-71,Blue screen error on startup,Blue screen error on startup,Closed,71
-72,Malware detected,Malware detected,Open,72
-73,Printer paper jam issue,Printer paper jam issue,In Progress,73
-74,Cannot scan documents,Cannot scan documents,Closed,74
-75,Network connection lost,Network connection lost,Open,75
-76,Application crashes,Application crashes,In Progress,76
-77,Password recovery,Password recovery,Open,77
-78,System performance issues,System performance issues,Closed,78
-79,Excel file corruption,Excel file corruption,Open,79
-80,Email not sending,Email not sending,In Progress,80
-81,Computer overheating,Computer overheating,Closed,81
-82,Spyware detected,Spyware detected,Open,82
-83,Printer paper feed problem,Printer paper feed problem,In Progress,83
-84,Email attachment issues,Email attachment issues,Closed,84
-85,Internet connection lost,Internet connection lost,Open,85
-86,Network speed issues,Network speed issues,In Progress,86
-87,Cannot open Word documents,Cannot open Word documents,Open,87
-88,Email sync with phone problems,Email sync with phone problems,Closed,88
-89,Frequent software crashes,Frequent software crashes,Open,89
-90,Virus removal needed,Virus removal needed,In Progress,90
-91,Printer not recognizing paper,Printer not recognizing paper,Closed,91
-92,Cannot print PDF files,Cannot print PDF files,Open,92
-93,Slow Wi-Fi connection,Slow Wi-Fi connection,In Progress,93
-94,Software update issues,Software update issues,Closed,94
-95,Forgotten login details,Forgotten login details,Open,95
-96,Printer not connecting to computer,Printer not connecting to computer,In Progress,96
-97,Email attachments won't open,Email attachments won't open,Open,97
-98,System performance problems,System performance problems,Closed,98
-99,Data loss after software update,Data loss after software update,Open,99
-100,Email not syncing with phone,Email not syncing with phone,In Progress,100
+1,Can't access email,Can't access email,1,1327
+2,Printer not working,Printer not working,1,6
+3,Forgotten password,Forgotten password,1,1774
+4,Software installation issue,Software installation issue,13,15
+5,Network connectivity problem,Network connectivity problem,13,2507
+6,Application crashes frequently,Application crashes frequently,5,2565
+7,Account locked out,Account locked out,3,684
+8,Slow computer performance,Slow computer performance,8,2355
+9,Data loss after system update,Data loss after system update,4,564
+10,Cannot send/receive emails,Cannot send/receive emails,7,1857
+11,Blue screen error on startup,Blue screen error on startup,8,152
+12,Virus detected,Virus detected,7,2822
+13,Printer paper jam,Printer paper jam,4,1293
+14,Email attachments won't open,Email attachments won't open,13,571
+15,Cannot connect to Wi-Fi,Cannot connect to Wi-Fi,7,1430
+16,Software not responding,Software not responding,8,1682
+17,Forgotten email password,Forgotten email password,8,2371
+18,Slow internet connection,Slow internet connection,7,584
+19,Cannot open Excel files,Cannot open Excel files,1,1958
+20,Email not syncing with phone,Email not syncing with phone,4,996
+21,Computer freezes randomly,Computer freezes randomly,5,210
+22,Malware detected,Malware detected,4,2011
+23,Printer not responding,Printer not responding,3,2515
+24,Cannot print PDF documents,Cannot print PDF documents,1,1507
+25,Wi-Fi signal weak,Wi-Fi signal weak,5,1251
+26,System crashes on startup,System crashes on startup,1,1283
+27,Locked out of the company software,Locked out of the company software,4,373
+28,High CPU usage,High CPU usage,1,2241
+29,Missing files after update,Missing files after update,1,1774
+30,Email attachments missing,Email attachments missing,4,2418
+31,No internet connection,No internet connection,1,663
+32,Software crashes on launch,Software crashes on launch,1,1120
+33,Forgotten Wi-Fi password,Forgotten Wi-Fi password,5,1002
+34,Printer not printing properly,Printer not printing properly,5,2799
+35,Email not receiving messages,Email not receiving messages,4,198
+36,Application not responding,Application not responding,1,2299
+37,Account password reset,Account password reset,13,280
+38,Slow computer startup,Slow computer startup,7,1404
+39,Data recovery needed,Data recovery needed,8,2583
+40,Email login issue,Email login issue,3,1446
+41,Blue screen error,Blue screen error,8,484
+42,Ransomware infection,Ransomware infection,13,2312
+43,Printer error code,Printer error code,13,404
+44,Cannot scan documents,Cannot scan documents,1,284
+45,Network connection lost,Network connection lost,5,563
+46,Application crashes,Application crashes,7,1988
+47,Password recovery,Password recovery,13,2947
+48,System performance issues,System performance issues,13,2869
+49,Excel file corruption,Excel file corruption,7,222
+50,Email not sending,Email not sending,1,1790
+51,Computer overheating,Computer overheating,13,1519
+52,Spyware detected,Spyware detected,13,2327
+53,Printer paper feed problem,Printer paper feed problem,5,1333
+54,Email attachment issues,Email attachment issues,8,403
+55,Internet connection lost,Internet connection lost,13,2736
+56,Network speed issues,Network speed issues,3,1071
+57,Cannot open Word documents,Cannot open Word documents,1,2489
+58,Email sync with phone problems,Email sync with phone problems,5,2520
+59,Frequent software crashes,Frequent software crashes,8,339
+60,Virus removal needed,Virus removal needed,3,638
+61,Printer not recognizing paper,Printer not recognizing paper,3,1313
+62,Cannot print PDF files,Cannot print PDF files,5,2176
+63,Slow Wi-Fi connection,Slow Wi-Fi connection,8,2025
+64,Software update issues,Software update issues,1,2139
+65,Forgotten login details,Forgotten login details,3,2636
+66,Printer not connecting to computer,Printer not connecting to computer,5,1757
+67,Email attachments won't open,Email attachments won't open,1,1934
+68,System performance problems,System performance problems,7,2188
+69,Data loss after software update,Data loss after software update,1,612
+70,Email not syncing with phone,Email not syncing with phone,7,1771
+71,Blue screen error on startup,Blue screen error on startup,7,207
+72,Malware detected,Malware detected,5,172
+73,Printer paper jam issue,Printer paper jam issue,3,2824
+74,Cannot scan documents,Cannot scan documents,4,277
+75,Network connection lost,Network connection lost,5,2438
+76,Application crashes,Application crashes,13,474
+77,Password recovery,Password recovery,8,2883
+78,System performance issues,System performance issues,1,1903
+79,Excel file corruption,Excel file corruption,13,221
+80,Email not sending,Email not sending,8,1640
+81,Computer overheating,Computer overheating,5,2929
+82,Spyware detected,Spyware detected,1,2483
+83,Printer paper feed problem,Printer paper feed problem,7,709
+84,Email attachment issues,Email attachment issues,4,1696
+85,Internet connection lost,Internet connection lost,4,2672
+86,Network speed issues,Network speed issues,7,989
+87,Cannot open Word documents,Cannot open Word documents,4,1954
+88,Email sync with phone problems,Email sync with phone problems,1,1683
+89,Frequent software crashes,Frequent software crashes,8,2838
+90,Virus removal needed,Virus removal needed,7,1939
+91,Printer not recognizing paper,Printer not recognizing paper,5,1212
+92,Cannot print PDF files,Cannot print PDF files,1,1704
+93,Slow Wi-Fi connection,Slow Wi-Fi connection,3,487
+94,Software update issues,Software update issues,4,1950
+95,Forgotten login details,Forgotten login details,13,2064
+96,Printer not connecting to computer,Printer not connecting to computer,7,819
+97,Email attachments won't open,Email attachments won't open,13,590
+98,System performance problems,System performance problems,3,2397
+99,Data loss after software update,Data loss after software update,3,1335
+100,Email not syncing with phone,Email not syncing with phone,8,602
